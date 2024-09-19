@@ -29,5 +29,5 @@ public class Tests {
         Task11Main.swap(arr);
         Assert.assertArrayEquals("если пришедший массив null, то ничего делать не нужно", null, arr);
     }
-    
+
 }
